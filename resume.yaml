@@ -1,0 +1,86 @@
+basics:
+  name: Bhawna Paradkar
+  label: Data Analyst
+  picture: https://media.licdn.com/dms/image/D5635AQErqyXGIfbr9A/profile-framedphoto-shrink_200_200/0/1712649121011?e=1721552400&v=beta&t=YC4xfIXDt5CjKBTJTg4gq6nJKLKOJrlQHYrw8sPk2uI
+  email: paradkarbhawna5@gmail.com
+  website: https://www.linkedin.com/in/bhawnauparadkar
+  summary: |
+    As a recent graduate, I possess a diverse skill set, proficient in data analysis, front-end development,
+    and Python programming. I excel at analyzing data to derive meaningful insights, crafting intuitive user
+    interfaces, and developing efficient Python-based solutions. I am eager to leverage these skills in a dynamic
+    team environment.
+  location:
+    countryCode: IN
+    region: Nagpur, Maharashtra
+work:
+  - company: Visakhapatnam Steel Plant
+    position: IT Trainee
+    startDate: '2023-08-01'
+    location: Visakhapatnam, Andhra Pradesh
+    summary: |
+      Deploy and maintain face recognition attendance systems within the steel plant environment.
+      Collaborated on data analytics and Machine learning projects to optimize production processes.
+      Worked on enhancing quality control and streamlining supply chain management using data-driven insights.
+  - company: Unified Mentors
+    position: Data Science Intern
+    startDate: '2023-03-01'
+    endDate: '2023-08-01'
+    summary: |
+      Analyzed large datasets and assisted in predictive model development. Conducted data cleaning,
+      preprocessing, and visualization. Worked on exploratory data analysis and supported data-driven decision
+      making processes.
+education:
+  - institution: Rashtrasant Tukdoji Maharaj Nagpur University
+    area: Computer Science
+    studyType: Bachelor of Engineering
+    startDate: '2019-08-01'
+    endDate: '2023-06-01'
+    gpa: 7.5/10.0
+skills:
+  - name: Programming & Software Development
+    level: Proficient
+    keywords:
+      - Python
+      - Machine Learning
+      - Data Analysis
+      - Data Visualization
+      - JavaScript
+      - HTML
+      - CSS
+  - name: Database Management
+    level: Proficient
+    keywords:
+      - MySQL
+      - PostgreSQL
+  - name: Data Science Tools
+    level: Proficient
+    keywords:
+      - Numpy
+      - Pandas
+      - Matplotlib
+      - Tableau
+      - OpenCV
+  - name: Other Skills
+    level: Proficient
+    keywords:
+      - Data Wrangling
+      - Beautiful Soup
+      - C & C++
+      - R
+      - Excel for Data Science
+languages:
+  - language: English
+interests:
+  - name: Data Analysis Projects
+  - name: Front-end Development
+  - name: Python Programming
+projects:
+  - name: Face Recognition based attendance system
+    summary: Developed a face recognition based attendance system to enhance security and monitoring within the steel plant environment.
+    technologies: [Python, OpenCV]
+  - name: World Bank Global Education Analysis
+    summary: Created a data analysis initiative for the World Bank to improve global education outcomes using data-driven insights.
+    technologies: [Python, Pandas, Matplotlib]
+  - name: Mechanism for Railway Resurrecting
+    summary: Built a railway operations website to enhance user interaction and real-time updates using a robust backend.
+    technologies: [HTML, CSS, JavaScript]
